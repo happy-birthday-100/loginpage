@@ -116,19 +116,19 @@ body {
 #birthdayMessage {
     width: 100%;
     display: none;
-    font-size: 36px;
+    font-size: 30px;
     color: #ffffff;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
-    margin-top: 50%;
+    margin-top: 60%;
     animation: fadeIn 1s ease-in-out;
     text-align: center;
 }
 .msg {
   width: 100%;
     display: none;
-    font-size: 10px;
+    font-size: 6px;
     color: #ffffff;
-    margin-top: 10px;
+    margin-top: 5px;
     text-align: center;}
 
 #him{
